@@ -1,107 +1,105 @@
-# 📊 IPO Performance Prediction
+# 📈 IPO Performance Prediction – Academic Project
 
-## 🔍 Project Overview
-
-The goal of this project is to build a data-driven system that predicts whether investing in a recently launched IPO is a good decision for retail investors. This project was inspired by real-world IPO scam cases, where companies create artificial hype to inflate valuations, often leaving uninformed investors at risk.
-
-Through this project, I aim to help retail investors filter out potentially weak IPOs early, based on publicly available financial and subscription data, acting as a **first-level decision support system**.
-
----
-
-## 🎯 Objectives
-
-- Collect and aggregate IPO listing data from multiple years
-- Gather key financial indicators, subscription figures, and company fundamentals
-- Clean and structure the data into a unified format
-- Explore the data through EDA and domain logic
-- Develop a custom labeling strategy to flag IPOs as:
-  - `Good to Go`
-  - `Wait`
-  - `Avoid`
-- Train ML models to validate the feasibility of IPO performance prediction
+**Author**: Aniket Yadav
+**Domain**: Finance | Data Science | Machine Learning
+**Project Type**: Academic Year Project
+**Status**: 🚧 In Progress
 
 ---
 
-## 🗃️ Data Sources (Scraped Using Selenium & BeautifulSoup)
+## 🧠 Project Objective
 
-Currently being scraped from [Trendlyne.com](https://trendlyne.com) and potentially other sources.
+Retail investors often invest in IPOs based on media hype or peer advice, without enough financial analysis — which can lead to losses, especially when IPOs are overvalued or part of manipulated market activity.
 
-### ✅ Collected So Far
+This project aims to predict whether investing in a **recently launched IPO** is a **"Good to Go", "Wait", or "Avoid"** decision — based on:
 
-#### 📌 IPO-Level Data (SME + Mainboard)
-- `Company`
-- `Issue Type`
-- `Listing Date`
-- `Issue Size`
-- `Issue Price`
-- `LTP (Last Traded Price)`
-- `Market Cap (in Cr)`
-- `QIB/HNI/Retail Subscription`
-- `Total Subscription`
-- `Listing Open Price`
-- `Listing Close Price`
-- `Listing Gain %`
-- `Current Gain %`
-
-#### 📌 Financials (Annual Results)
-- `Revenue`, `Net Profit`, `EPS`, `ROE`, `ROCE`, `Debt to Equity`, `Cash Flow`
-- Financial year columns from **Mar '15** to **Mar '25**
-- Indicators like `CAGR 3 Yrs`, `CAGR 5 Yrs`, `TTM`
-- Includes scraped tables: Balance Sheet, Cash Flow, Financial Ratios
+* Subscription patterns (QIB, HNI, Retail)
+* Financial health of the company
+* Promoter holding
+* Business tenure since listing
 
 ---
 
-## ⚙️ Project Stage
+## 🏗️ Project Structure
 
-| Component              | Status         | Notes                                                  |
-|------------------------|----------------|---------------------------------------------------------|
-| Data Collection        | ⏳ In Progress  | SME + Mainboard IPOs, Financials from Trendlyne        |
-| Data Cleaning          | ⏳ Not Started  | Will standardize columns, handle missing values         |
-| Feature Engineering    | ⏳ Not Started  | Sector mapping, promoter holding, tenure calculation    |
-| Label Creation         | ⏳ Not Started  | Domain-based labeling using subscription + fundamentals |
-| EDA & Visualizations   | ⏳ Planned      | Sector-wise patterns, listing gains vs subscriptions    |
-| Model Training         | ⏳ Planned      | Will explore classification models                     |
-| Dashboard              | ⏳ Planned      | Streamlit or Power BI dashboard later stage             |
+### 🔄 Phase 1: Data Collection (In Progress)
+
+Collected data (2019–2025) from sources like [Trendlyne](https://trendlyne.com), covering:
+
+#### ✅ IPO-Level Data (Mainboard & SME)
+
+| Company | Issue Type | Market Cap | IPO Price | Listing Price | LTP | Gain | QIB/HNI/Retail Subscriptions | Total Subscription | Listing Date |
+| ------- | ---------- | ---------- | --------- | ------------- | --- | ---- | ---------------------------- | ------------------ | ------------ |
+
+#### ✅ Annual Financials (Mar’15–Mar’25)
+
+| Company | Indicator | CAGR 3 Yrs | CAGR 5 Yrs | Mar '25 | Mar '24 | ... | Mar '15 |
+| ------- | --------- | ---------- | ---------- | ------- | ------- | --- | ------- |
+
+#### ✅ Financial Ratios, Balance Sheet, Cash Flow
+
+* Will be made available as `.csv` and `.pkl` files in this repo
+
+#### 🔄 Upcoming:
+
+* Sector/Industry Info
+* Promoter Holding
+
+### 🧹 Phase 2: Data Cleaning
+
+* Standardizing formats
+* Handling missing values
+* Creating meaningful features (e.g., market tenure)
+
+### 🏷️ Phase 3: Data Labeling Strategy
+
+Custom logic under development:
+
+* If IPO is 3+ years old, use real performance (current vs. listing price)
+* If <3 years old, rely more on financial metrics and subscription strength
+
+Labels:
+
+* `Good to Go`
+* `Wait for Good Time`
+* `Avoid for Now`
+
+### 🤖 Phase 4: Modeling & Prediction
+
+* Feature engineering (Subscription, Financials, Holding)
+* Model selection: Random Forest, XGBoost, etc.
+* Evaluation metrics: Accuracy, Precision, AUC-ROC
+
+### 📊 Phase 5: Dashboard (Power BI or Streamlit)
+
+* Interactive filter to check IPO performance prediction
+* Filter by: Year, Industry, Subscription Type, Label, etc.
 
 ---
 
-## 📌 Planned Custom Columns
+## 💡 Vision
 
-- `Tenure`: Number of years since IPO listing (Current Year - Listing Year)
-- `Label`: Based on a mix of tenure, subscription trends, and financial health (domain rules)
+This tool will act as a **decision-assist model** for:
 
----
+* Retail investors to filter new IPOs
+* Analysts to study post-listing performance
+* Educators to show ML applications in finance
 
-## 🧠 Why This Project Matters
+## 🔗 Follow Project Progress
 
-Retail investors often rely on hearsay, news channels, or influencer hype when investing in IPOs. This project aims to build a **transparent and data-backed model** that empowers better decision-making — especially in the early days post-IPO when little public research exists.
+This repository will be continuously updated.
+Feel free to ⭐ star and watch the repo to stay informed.
 
----
-
-## 🚧 Notes
-
-- This is a **work-in-progress** project.
-- Code will be modularized and refactored once the raw data collection is complete.
-- Financial metric interpretations and labeling logic will be revisited post-EDA.
+> **📬 Feedback and suggestions are welcome!**
 
 ---
 
-## 🛠️ Tools & Libraries
+## 📌 Connect with Me
 
-- Python, Pandas, NumPy
-- Selenium, BeautifulSoup
-- Matplotlib, Seaborn (for future EDA)
-- Scikit-learn / XGBoost (for modeling later)
+* [LinkedIn](https://www.linkedin.com/in/aniketyadavofficial/)
+* Email: [Gmail](aniket.yadav52005@gmail.com)
 
 ---
 
-## 📬 Let's Connect
+**#IPO #StockMarket #RetailInvesting #Finance #MachineLearning #AcademicProject #Python #WebScraping #DataScience #Trendlyne #PowerBI #AIinFinance #GitHubProject**
 
-Feel free to share feedback, ideas, or collaborations.  
-📧 aniket.yadav52005@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/aniketyadavofficial/)
-
----
-
-## 🔖 Tags  
-`#IPO #Finance #MachineLearning #DataScience #RetailInvesting #Python #Trendlyne #InvestmentResearch #Selenium #GitHubProject`

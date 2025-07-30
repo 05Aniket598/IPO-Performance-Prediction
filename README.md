@@ -1,8 +1,16 @@
 # 📈 IPO Performance Prediction – Academic Project
 
+[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
+[![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen)](https://www.selenium.dev/)
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-orange)](https://www.crummy.com/software/BeautifulSoup/)
+[![Stage](https://img.shields.io/badge/Project%20Stage-Data%20Cleaning-yellow)]()
+
 **Author**: Aniket Yadav
+
 **Domain**: Finance | Data Science | Machine Learning
+
 **Project Type**: Academic Year Project
+
 **Status**: 🚧 In Progress
 
 ---
@@ -22,28 +30,16 @@ This project aims to predict whether investing in a **recently launched IPO** is
 
 ## 🏗️ Project Structure
 
-### 🔄 Phase 1: Data Collection (In Progress)
+### 📥 Phase 1: Data Collection ✅
 
-Collected data (2019–2025) from sources like [Trendlyne](https://trendlyne.com), covering:
+Collected and stored data from **2019 to 2025**, including:
 
-#### ✅ IPO-Level Data (Mainboard & SME)
+* 📊 **Mainboard & SME IPOs**  
+* 📈 **Financial Statements** (Annual Results, Balance Sheet, Cash Flow)  
+* 📉 **Financial Ratios**
+* 📦 **Secondary Data** (like subscription and listing gains)
 
-| Company | Issue Type | Market Cap | IPO Price | Listing Price | LTP | Gain | QIB/HNI/Retail Subscriptions | Total Subscription | Listing Date |
-| ------- | ---------- | ---------- | --------- | ------------- | --- | ---- | ---------------------------- | ------------------ | ------------ |
-
-#### ✅ Annual Financials (Mar’15–Mar’25)
-
-| Company | Indicator | CAGR 3 Yrs | CAGR 5 Yrs | Mar '25 | Mar '24 | ... | Mar '15 |
-| ------- | --------- | ---------- | ---------- | ------- | ------- | --- | ------- |
-
-#### ✅ Financial Ratios, Balance Sheet, Cash Flow
-
-* Will be made available as `.csv` and `.pkl` files in this repo
-
-#### 🔄 Upcoming:
-
-* Sector/Industry Info
-* Promoter Holding
+✔️ All data is saved in `.csv` format for easier analysis.
 
 ### 🧹 Phase 2: Data Cleaning
 
@@ -51,18 +47,11 @@ Collected data (2019–2025) from sources like [Trendlyne](https://trendlyne.com
 * Handling missing values
 * Creating meaningful features (e.g., market tenure)
 
-### 🏷️ Phase 3: Data Labeling Strategy
+### 📊 Phase 3: EDA
 
-Custom logic under development:
-
-* If IPO is 3+ years old, use real performance (current vs. listing price)
-* If <3 years old, rely more on financial metrics and subscription strength
-
-Labels:
-
-* `Good to Go`
-* `Wait for Good Time`
-* `Avoid for Now`
+* Visualize IPO activity trends and sector distribution
+* Analyze relationship between subscription and listing gain
+* Correlation heatmaps and feature inspection
 
 ### 🤖 Phase 4: Modeling & Prediction
 
@@ -74,6 +63,26 @@ Labels:
 
 * Interactive filter to check IPO performance prediction
 * Filter by: Year, Industry, Subscription Type, Label, etc.
+
+---
+
+## 💻 Requirements
+
+A `requirements.txt` file will be added soon.  
+The project uses:
+
+- `Python 3.9+`
+- `Selenium`
+- `pandas`
+- `BeautifulSoup`
+- `chromedriver`
+
+---
+
+## 📢 Latest Update
+
+The code has now been fully **restructured and modularized**, making it easier for anyone to plug-and-play with it.  
+Currently progressing into **data cleaning and transformation** to prepare the datasets for modeling.
 
 ---
 
@@ -96,8 +105,8 @@ Feel free to ⭐ star and watch the repo to stay informed.
 
 ## 📌 Connect with Me
 
-* [LinkedIn](https://www.linkedin.com/in/aniketyadavofficial/)
-* Email: [Gmail](aniket.yadav52005@gmail.com)
+* LinkedIn : [LinkedIn](https://www.linkedin.com/in/aniketyadavofficial/)
+* Email : [Gmail](aniket.yadav52005@gmail.com)
 
 ---
 

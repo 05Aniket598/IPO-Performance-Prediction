@@ -12,7 +12,7 @@ model = pickle.load(open("xgb_c.pkl","rb"))
 with home:
     st.title("IPO Performance prediction")
 
-    df = pd.read_csv(r"All_IPO.csv")
+    df = pd.read_csv("All_IPO.csv")
     # ipo_validation = pd.read_csv("Validate_IPO.csv")
 
     # df = pd.concat([ipo,ipo_validation],axis=0)

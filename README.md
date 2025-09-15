@@ -96,8 +96,8 @@ Feel free to ⭐ star and watch the repo to stay informed.
 
 ## 📌 Connect with Me
 
-* [LinkedIn](https://www.linkedin.com/in/aniketyadavofficial/)
-* Email: [Gmail](aniket.yadav52005@gmail.com)
+* LinkedIn : [LinkedIn](https://www.linkedin.com/in/aniketyadavofficial/)
+* Email : [Gmail](aniket.yadav52005@gmail.com)
 
 ---
 

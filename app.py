@@ -62,49 +62,7 @@ with home:
 
     if st.button("Get prediction"):
 
-        # prediction = model.predict(df_for_prediction)
-        # y_pred_proba = model.predict_proba(df_for_prediction)
-        # confidence = y_pred_proba
-
-        # if prediction == 1:
-        #     st.write(f"Company {selected_company} can generate Annual CAGR in between more than 5% and lesser than 15%.")
-        #     st.write(prediction[0])
-        #     st.write(confidence)
-
-        # elif prediction == 2:
-        #     st.write(f"Company {selected_company} can generate Annual CAGR greater than 15%.")
-        #     st.write(prediction[0])
-        #     st.write(confidence)
-
-
-        # else:
-        #     st.write(f"Company {selected_company} can Generate Annual CAGR lesser than 5%.")
-        #     st.write(prediction[0])
-        #     st.write(confidence)
-
-
-        # y_pred_proba = model.predict_proba(df_for_prediction)[0]  # 1D array
-        # classes = ["Bad (<5%)", "Neutral (5–15%)", "Good (>15%)"]
-
-        # # Show raw text results
-        # prediction = model.predict(df_for_prediction)[0]
-        # st.write("### Prediction Result:")
-        # if prediction == 0:
-        #     st.success(f"{selected_company} is predicted as **Bad (<5%) CAGR**")
-        # elif prediction == 1:
-        #     st.info(f"{selected_company} is predicted as **Neutral (5–15%) CAGR**")
-        # else:
-        #     st.success(f"{selected_company} is predicted as **Good (>15%) CAGR**")
-
-        # # --- Bar Chart Visualization ---
-        # st.write("### Prediction Probabilities")
-        # proba_df = pd.DataFrame({
-        #     "Class": classes,
-        #     "Probability": y_pred_proba
-        # })
-
-        # st.bar_chart(proba_df.set_index("Class"))
-
+        
 
         # Model prediction
         prediction = model.predict(df_for_prediction)[0]

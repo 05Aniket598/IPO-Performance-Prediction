@@ -1,0 +1,321 @@
+,Company,LTP,Market Cap(in CR),Listing date,Issue size,Issue price,QIB subscription,HNI subscription,Retail subscription,Total subscription,Listing open,Listing close,Listing gain,Current gain,Issue type
+0,Prince Pipes ,335.6,3709.9,30 Dec `19,500.0 Cr,₹ 178,3.5x,1.2x,1.9x,2.2x,160.0,166.6,-10.1%,88.5%,MainBoard
+1,Ujjivan Small Finance ,43.5,8420.0,12 Dec `19,750.0 Cr,₹ 37,110.7x,473.0x,49.0x,165.7x,58.8,55.9,58.8%,17.6%,MainBoard
+2,CSB Bank,424.8,7368.8,04 Dec `19,409.7 Cr,₹ 195,62.2x,164.7x,44.5x,86.9x,275.0,300.1,41.0%,117.8%,MainBoard
+3,Vishwaraj Sugar ,9.4,205.4,16 Oct `19,60.0 Cr,₹ 60,1.0x,1.8x,0.6x,1.1x,61.2,60.4,2.0%,-84.3%,MainBoard
+4,Indian Railway Catering,744.4,59548.0,14 Oct `19,645.1 Cr,₹ 320,108.8x,354.5x,14.8x,111.9x,644.0,728.6,101.3%,132.6%,MainBoard
+5,Sterling and Wilson,287.4,6710.6,20 Aug `19,2880.9 Cr,₹ 780,1.0x,0.9x,0.3x,0.8x,700.0,725.4,-10.3%,-63.1%,MainBoard
+6,Spandana Sphoorty ,276.6,2212.4,19 Aug `19,1200.9 Cr,₹ 856,3.1x,0.6x,0.1x,1.1x,825.0,847.8,-3.6%,-67.7%,MainBoard
+7,Affle,1815.0,25526.2,08 Aug `19,459.0 Cr,₹ 745,55.3x,198.7x,10.9x,86.5x,929.9,873.6,24.8%,143.6%,MainBoard
+8,IndiaMART InterMESH,2563.1,15386.8,04 Jul `19,475.6 Cr,₹ 973,30.8x,62.1x,14.1x,36.2x,1180.0,1302.5,21.3%,426.8%,MainBoard
+9,Neogen Chemicals,1577.7,4162.2,08 May `19,132.3 Cr,₹ 215,30.5x,113.9x,15.9x,41.1x,251.0,263.6,16.7%,633.8%,MainBoard
+10,Polycab,6753.0,101644.1,18 Apr `19,1346.0 Cr,₹ 538,92.4x,110.4x,4.5x,51.9x,633.0,654.8,17.7%,1155.2%,MainBoard
+11,Metropolis Healthcare,1991.2,10315.9,15 Apr `19,1204.3 Cr,₹ 880,8.9x,3.0x,2.2x,5.8x,960.0,959.5,9.1%,126.3%,MainBoard
+12,Rail Vikas Nigam,368.6,76853.8,11 Apr `19,481.6 Cr,₹ 19,1.4x,0.8x,2.9x,1.8x,19.0,19.1,0.0%,1840.0%,MainBoard
+13,MSTC,502.4,3537.2,29 Mar `19,212.0 Cr,₹ 128,1.1x,2.1x,3.0x,1.5x,111.0,114.2,-13.3%,292.5%,MainBoard
+14,Chalet Hotels,929.6,20310.9,07 Feb `19,1641.2 Cr,₹ 280,4.7x,1.1x,0.0x,1.6x,291.0,290.4,3.9%,232.0%,MainBoard
+15,Xelpmoc Design ,90.0,132.9,04 Feb `19,23.0 Cr,₹ 66,1.2x,7.7x,2.6x,3.3x,56.0,59.9,-15.2%,36.4%,MainBoard
+0,Mrs. Bectors Food,1512.3,9285.2,24 Dec `20,540.5 Cr,₹ 288,176.8x,620.9x,29.3x,198.0x,501.0,595.5,74.0%,425.1%,MainBoard
+1,Restaurant Brands Asia,83.0,4829.2,14 Dec `20,810.0 Cr,₹ 60,86.6x,354.1x,68.2x,156.7x,115.3,138.4,92.3%,38.3%,MainBoard
+2,Gland Pharma,2016.1,33216.5,20 Nov `20,6479.6 Cr,₹ 1500,6.4x,0.5x,0.2x,2.1x,1710.0,1820.5,14.0%,34.4%,MainBoard
+3,Equitas Small Finance Bank,61.3,6995.2,02 Nov `20,517.6 Cr,₹ 33,3.9x,0.2x,2.1x,1.9x,31.0,32.8,-6.1%,85.9%,MainBoard
+4,UTI Asset Management ,1341.5,17181.1,12 Oct `20,2159.9 Cr,₹ 554,3.3x,0.9x,2.3x,2.3x,476.2,476.6,-14.0%,142.2%,MainBoard
+5,Mazagon Dock Shipbuilders,2920.0,117787.0,12 Oct `20,443.7 Cr,₹ 145,89.7x,678.9x,35.6x,157.4x,216.3,173.0,49.1%,3927.6%,MainBoard
+6,Angel One,2741.4,24822.2,05 Oct `20,600.0 Cr,₹ 306,5.7x,0.7x,4.3x,3.9x,275.0,275.9,-10.1%,795.9%,MainBoard
+7,Computer Age Mgmt,4064.2,20107.5,01 Oct `20,2244.3 Cr,₹ 1230,73.2x,111.8x,5.5x,47.0x,1535.0,1401.6,24.8%,230.4%,MainBoard
+8,Chemcon Speciality ,212.2,777.2,01 Oct `20,318.0 Cr,₹ 340,113.5x,449.1x,41.1x,149.3x,731.0,584.8,115.0%,-37.6%,MainBoard
+9,Route Mobile,922.5,5811.5,21 Sep `20,600.0 Cr,₹ 350,89.8x,192.8x,12.7x,73.3x,708.0,651.1,102.3%,163.6%,MainBoard
+10,Happiest Minds ,615.7,9375.6,17 Sep `20,702.0 Cr,₹ 166,77.4x,351.5x,70.9x,151.0x,351.0,371.0,111.5%,270.9%,MainBoard
+11,Rossari Biotech,709.0,3925.5,23 Jul `20,496.3 Cr,₹ 425,85.3x,239.8x,7.2x,79.4x,670.0,742.4,57.6%,66.8%,MainBoard
+12,SBI Cards and Payment,884.4,84148.4,16 Mar `20,10354.8 Cr,₹ 755,57.2x,45.2x,2.5x,26.5x,658.0,683.2,-12.8%,17.1%,MainBoard
+0,CMS Info Systems,483.0,7944.0,31 Dec `21,1100.0 Cr,₹ 216,2.0x,1.4x,2.1x,1.9x,242.9,237.4,12.5%,123.6%,MainBoard
+1,Supriya Lifescience,686.8,5527.2,28 Dec `21,700.0 Cr,₹ 274,31.8x,161.2x,56.0x,71.5x,425.0,390.4,55.1%,150.6%,MainBoard
+2,HP Adhesives,49.9,458.7,27 Dec `21,126.0 Cr,₹ 274,1.8x,19.0x,81.2x,21.0x,319.0,334.9,16.4%,-8.9%,MainBoard
+3,Data Patterns,2715.0,15199.7,24 Dec `21,588.2 Cr,₹ 585,190.9x,254.2x,23.1x,119.6x,864.0,754.9,47.7%,364.1%,MainBoard
+4,Medplus Health,888.5,10638.6,23 Dec `21,1398.3 Cr,₹ 796,111.9x,85.3x,5.2x,52.6x,1040.0,1121.2,30.6%,11.6%,MainBoard
+5,Metro Brands,1256.2,34205.1,22 Dec `21,1367.5 Cr,₹ 500,8.5x,3.0x,1.1x,3.6x,436.0,317.6,-12.8%,151.2%,MainBoard
+6,C.E. Info Systems,1820.4,9906.6,21 Dec `21,1039.6 Cr,₹ 1033,196.4x,424.7x,15.2x,154.7x,1581.0,1394.5,53.0%,76.2%,MainBoard
+7,Shriram Properties,96.2,1638.6,20 Dec `21,600.0 Cr,₹ 118,1.9x,4.8x,12.7x,4.6x,94.0,99.4,-20.3%,-18.5%,MainBoard
+8,RateGain Travel ,449.0,5301.7,17 Dec `21,1335.7 Cr,₹ 425,8.4x,42.0x,8.1x,17.4x,364.8,340.5,-14.2%,5.7%,MainBoard
+9,Anand Rathi Wealth,2622.7,21773.8,14 Dec `21,660.0 Cr,₹ 550,2.5x,25.4x,7.8x,9.8x,584.5,583.5,6.3%,853.7%,MainBoard
+10,Tega Industries,1847.1,12289.8,13 Dec `21,619.2 Cr,₹ 453,215.4x,666.2x,29.4x,219.0x,753.0,725.5,66.2%,307.8%,MainBoard
+11,Star Health ,426.0,25035.1,10 Dec `21,7249.2 Cr,₹ 900,1.0x,0.2x,1.1x,0.8x,903.0,906.9,0.3%,-52.7%,MainBoard
+12,Go Fashion,861.4,4652.3,30 Nov `21,1013.6 Cr,₹ 690,100.7x,262.1x,49.7x,135.5x,1310.0,1253.7,89.9%,24.8%,MainBoard
+13,Tarsons Products,375.5,1997.9,26 Nov `21,1023.5 Cr,₹ 662,115.8x,184.6x,10.6x,77.5x,700.0,840.0,5.7%,-43.3%,MainBoard
+14,Latent View Analytics,419.4,8663.8,23 Nov `21,600.0 Cr,₹ 197,145.5x,850.7x,119.4x,326.5x,530.0,488.6,169.0%,112.9%,MainBoard
+15,Sapphire Foods,330.5,10621.7,18 Nov `21,2073.3 Cr,₹ 1180,7.5x,3.5x,8.7x,6.6x,1311.0,1216.0,11.1%,40.0%,MainBoard
+16,One97 Communications,1076.2,68689.6,18 Nov `21,18300.0 Cr,₹ 2150,2.8x,0.2x,1.7x,1.9x,1955.0,1554.2,-9.1%,-50.0%,MainBoard
+17,Sigachi Industries,39.1,1494.1,15 Nov `21,125.4 Cr,₹ 163,86.5x,172.4x,80.5x,101.9x,575.0,603.8,252.8%,139.9%,MainBoard
+18,SJS Enterprises,1263.4,3958.6,15 Nov `21,800.0 Cr,₹ 542,1.4x,2.3x,1.4x,1.6x,514.0,509.9,-5.2%,133.1%,MainBoard
+19,PB Fintech,1771.9,81375.8,15 Nov `21,5625.0 Cr,₹ 980,24.9x,7.8x,3.3x,16.6x,1444.0,1202.9,47.4%,80.8%,MainBoard
+20,Fino Payments Bank,273.8,2278.1,12 Nov `21,1200.3 Cr,₹ 577,1.6x,0.2x,5.9x,2.0x,548.0,545.3,-5.0%,-52.6%,MainBoard
+21,FSN E-Commerce ,212.1,60656.7,10 Nov `21,5351.9 Cr,₹ 1125,91.2x,112.0x,12.2x,81.8x,2001.0,2206.7,77.9%,13.1%,MainBoard
+22,Aditya Birla Sun Life AMC,852.5,24605.4,11 Oct `21,2768.3 Cr,₹ 712,10.4x,4.4x,3.2x,5.3x,697.5,699.6,-2.0%,19.7%,MainBoard
+23,Paras Defence,793.5,6394.6,01 Oct `21,170.8 Cr,₹ 175,169.7x,927.7x,112.8x,304.3x,475.0,498.8,171.4%,806.9%,MainBoard
+24,Sansera Engineering,1367.5,8491.6,24 Sep `21,1283.0 Cr,₹ 744,26.5x,11.4x,3.1x,11.5x,845.0,818.7,13.6%,83.8%,MainBoard
+25,Vijaya Diagnostic Centre,1071.3,11001.4,14 Sep `21,1895.0 Cr,₹ 531,13.1x,1.3x,1.1x,4.5x,542.3,619.3,2.1%,101.8%,MainBoard
+26,Ami Organics,1163.0,9521.4,14 Sep `21,569.6 Cr,₹ 610,86.6x,154.8x,13.4x,64.5x,902.0,934.5,47.9%,281.3%,MainBoard
+27,Aptus Value Housing ,346.1,17305.5,06 Sep `21,2780.1 Cr,₹ 353,32.4x,33.9x,1.4x,17.2x,360.0,346.5,2.0%,-1.9%,MainBoard
+28,Chemplast Sanmar,441.0,6972.6,24 Aug `21,3850.0 Cr,₹ 541,2.7x,1.0x,2.3x,2.2x,570.0,534.9,5.4%,-18.5%,MainBoard
+29,Nuvoco Vistas,415.0,14822.0,23 Aug `21,5000.0 Cr,₹ 570,4.2x,0.7x,0.7x,1.7x,471.0,531.3,-17.4%,-27.2%,MainBoard
+30,CarTrade Tech,1903.3,9039.6,20 Aug `21,2998.5 Cr,₹ 1618,35.5x,41.0x,2.8x,20.3x,1600.0,1500.1,-1.1%,17.6%,MainBoard
+31,Windlas Biotech,984.5,2063.5,17 Aug `21,401.5 Cr,₹ 460,24.4x,15.7x,24.2x,22.4x,439.0,406.7,-4.6%,114.0%,MainBoard
+32,Exxaro Tiles,8.5,382.1,16 Aug `21,161.1 Cr,₹ 120,17.7x,5.4x,40.0x,22.6x,126.0,132.3,5.0%,-28.8%,MainBoard
+33,Devyani Intl,172.3,21220.1,16 Aug `21,1838.0 Cr,₹ 90,95.3x,213.1x,39.5x,116.7x,141.0,123.3,56.7%,91.4%,MainBoard
+34,Krsnaa Diagnostics,857.3,2780.8,16 Aug `21,1213.3 Cr,₹ 954,49.8x,116.3x,42.0x,64.4x,1025.0,990.8,7.4%,-10.1%,MainBoard
+35,Rolex Rings,1485.0,4044.1,09 Aug `21,731.0 Cr,₹ 900,143.6x,360.1x,24.5x,130.4x,1249.0,1166.5,38.8%,65.0%,MainBoard
+36,Alivus Life Sciences,1028.0,12606.3,06 Aug `21,1513.6 Cr,₹ 720,37.0x,122.5x,14.6x,44.2x,752.0,748.2,4.4%,42.8%,MainBoard
+37,Tatva Chintan Pharma,1178.0,2755.7,29 Jul `21,500.0 Cr,₹ 1083,185.2x,512.2x,35.4x,180.4x,2111.8,2310.3,95.0%,8.8%,MainBoard
+38,Zomato,311.4,300463.7,23 Jul `21,9375.0 Cr,₹ 76,51.8x,33.0x,7.5x,38.3x,115.0,125.8,51.3%,309.7%,MainBoard
+39,G R Infraprojects,1263.8,12226.0,19 Jul `21,963.3 Cr,₹ 837,168.6x,238.0x,12.6x,102.6x,1700.0,1746.8,103.1%,51.0%,MainBoard
+40,Clean Science ,1249.0,13272.8,19 Jul `21,1546.6 Cr,₹ 900,156.4x,206.4x,9.0x,93.4x,1784.4,1585.2,98.3%,38.8%,MainBoard
+41,India Pesticides,213.6,2459.8,05 Jul `21,800.0 Cr,₹ 296,43.0x,51.9x,11.3x,29.0x,360.0,343.1,21.6%,-27.8%,MainBoard
+42,Krishna Institute ,762.9,30524.6,05 Jul `21,2143.7 Cr,₹ 825,5.3x,1.9x,2.9x,3.9x,1009.0,1096.8,22.3%,362.3%,MainBoard
+43,Dodla Dairy,1312.8,7919.8,28 Jun `21,520.2 Cr,₹ 428,84.9x,73.3x,11.3x,45.6x,550.0,609.1,28.5%,206.7%,MainBoard
+44,Sona BLW Precision ,478.5,29749.2,24 Jun `21,5550.0 Cr,₹ 291,3.5x,0.4x,1.6x,2.3x,302.4,362.9,3.9%,64.4%,MainBoard
+45,Shyam Metalics,956.3,26692.0,24 Jun `21,909.0 Cr,₹ 306,155.7x,340.0x,11.6x,121.4x,380.0,375.9,24.2%,212.5%,MainBoard
+46,Macrotech Developers,1297.7,129531.6,19 Apr `21,2500.0 Cr,₹ 486,3.0x,1.4x,0.4x,1.4x,439.0,463.1,-9.7%,434.0%,MainBoard
+47,Barbeque-Nation ,309.3,1208.6,07 Apr `21,452.9 Cr,₹ 500,5.1x,3.1x,13.1x,6.0x,492.0,590.4,-1.6%,-38.1%,MainBoard
+48,Nazara Technologies,1408.6,13045.9,30 Mar `21,582.9 Cr,₹ 1101,103.8x,389.9x,75.3x,175.5x,1971.0,1576.8,79.0%,155.9%,MainBoard
+49,Suryoday Small Finance Bank,131.6,1398.6,26 Mar `21,582.3 Cr,₹ 305,2.2x,1.3x,3.1x,2.4x,274.8,276.2,-9.9%,-56.9%,MainBoard
+50,Kalyan Jewellers,593.9,61279.1,26 Mar `21,1175.0 Cr,₹ 87,2.8x,1.9x,2.8x,2.6x,73.9,75.3,-15.1%,582.6%,MainBoard
+51,Craftsman Automation,6280.0,14981.3,25 Mar `21,823.7 Cr,₹ 1490,5.2x,2.8x,3.4x,3.8x,1440.0,1433.0,-3.4%,321.5%,MainBoard
+52,Laxmi Organic Ind,204.4,5663.0,25 Mar `21,600.0 Cr,₹ 130,175.4x,217.6x,20.1x,106.8x,173.0,164.6,33.1%,57.2%,MainBoard
+53,Anupam Rasayan,1142.9,13011.5,24 Mar `21,760.0 Cr,₹ 555,65.7x,97.4x,10.8x,44.1x,534.7,525.9,-3.7%,105.9%,MainBoard
+54,Easy Trip Planners,10.3,3653.9,19 Mar `21,510.0 Cr,₹ 187,77.5x,382.2x,70.4x,159.3x,182.0,208.3,-2.7%,76.5%,MainBoard
+55,MTAR Technologies,1510.1,4645.0,15 Mar `21,596.0 Cr,₹ 575,165.0x,650.8x,28.4x,200.8x,990.0,1082.3,72.2%,162.6%,MainBoard
+56,Heranba Industries,353.7,1415.3,09 Mar `21,625.0 Cr,₹ 627,67.5x,271.1x,11.8x,83.3x,900.0,812.3,43.5%,-43.6%,MainBoard
+57,RailTel Corporation,395.8,12701.1,26 Feb `21,819.2 Cr,₹ 94,65.1x,73.3x,16.8x,42.4x,109.0,121.4,16.0%,321.0%,MainBoard
+58,Nureca,250.7,250.7,26 Feb `21,100.0 Cr,₹ 400,3.1x,31.6x,166.7x,39.9x,635.0,666.6,58.7%,-37.3%,MainBoard
+59,Brookfield Real Estate ,314.7,19127.2,17 Feb `21,3800.0 Cr,₹ 275,4.8x,11.5x,-,7.9x,281.7,268.9,2.4%,14.4%,MainBoard
+60,Stove Kraft,580.0,1918.4,05 Feb `21,413.0 Cr,₹ 385,8.0x,32.7x,26.0x,18.0x,498.0,445.9,29.4%,50.6%,MainBoard
+61,Home First Finance ,1432.0,14784.5,03 Feb `21,1153.7 Cr,₹ 518,52.5x,39.0x,6.6x,26.7x,612.1,527.4,18.2%,176.4%,MainBoard
+62,Indigo Paints,1146.2,5459.9,02 Feb `21,1176.0 Cr,₹ 1490,189.6x,263.1x,15.9x,117.0x,2607.5,3118.7,75.0%,-23.1%,MainBoard
+63,IRFC,132.9,173719.7,29 Jan `21,4633.0 Cr,₹ 26,3.8x,2.7x,3.7x,3.5x,25.0,24.9,-3.9%,411.3%,MainBoard
+64,Antony Waste Handling ,609.9,1730.9,01 Jan `21,300.0 Cr,₹ 315,9.7x,18.7x,16.6x,15.0x,430.0,407.3,36.5%,93.6%,MainBoard
+0,Elin Electronics,174.9,868.5,30 Dec `22,475.0 Cr,₹ 247,4.5x,3.3x,2.2x,3.1x,244.0,227.7,-1.2%,-29.2%,MainBoard
+1,KFIN Technologies,1170.0,20148.4,29 Dec `22,1500.0 Cr,₹ 366,4.2x,0.2x,1.4x,2.6x,367.0,363.9,0.3%,219.7%,MainBoard
+2,Landmark Cars,497.1,2056.5,23 Dec `22,552.0 Cr,₹ 506,8.7x,1.3x,0.6x,3.1x,471.0,458.4,-6.9%,-1.8%,MainBoard
+3,Abans Holdings,221.3,1119.3,23 Dec `22,345.6 Cr,₹ 270,4.1x,1.5x,0.4x,1.1x,273.0,218.4,1.1%,-18.0%,MainBoard
+4,Sula Vineyards,294.4,2485.9,22 Dec `22,960.4 Cr,₹ 357,4.1x,1.5x,1.6x,2.3x,361.0,331.2,1.1%,-17.5%,MainBoard
+5,Uniparts,372.3,1680.1,12 Dec `22,835.6 Cr,₹ 577,67.1x,17.9x,4.6x,25.3x,575.0,539.6,-0.3%,-35.5%,MainBoard
+6,Dharmaj Crop Guard,309.1,1044.7,08 Dec `22,251.2 Cr,₹ 237,48.2x,52.3x,21.5x,35.5x,266.1,266.3,12.3%,30.4%,MainBoard
+7,Keystone Realtors,625.8,7886.8,24 Nov `22,635.0 Cr,₹ 541,3.8x,3.0x,0.5x,2.0x,555.0,556.9,2.6%,15.7%,MainBoard
+8,Inox Green Energy ,171.8,6305.3,23 Nov `22,740.0 Cr,₹ 65,1.1x,0.5x,4.7x,1.6x,60.0,59.1,-7.7%,164.3%,MainBoard
+9,Kaynes Technology,5701.0,38172.2,22 Nov `22,857.8 Cr,₹ 587,98.5x,21.2x,4.1x,34.1x,778.0,690.0,32.5%,871.2%,MainBoard
+10,Archean Chemical ,669.0,8257.9,21 Nov `22,1462.3 Cr,₹ 407,48.9x,14.9x,9.9x,32.2x,450.0,458.1,10.6%,64.4%,MainBoard
+11,Five-Star Business Finance,692.4,20385.7,21 Nov `22,1960.0 Cr,₹ 474,1.8x,0.6x,0.1x,0.7x,468.8,490.0,-1.1%,46.1%,MainBoard
+12,Bikaji Foods ,772.3,19352.0,16 Nov `22,881.2 Cr,₹ 300,80.6x,7.1x,4.8x,26.7x,322.8,317.4,7.6%,157.4%,MainBoard
+13,Global Health,1336.8,35929.2,16 Nov `22,2205.6 Cr,₹ 336,28.6x,4.0x,0.9x,9.6x,401.0,415.3,19.4%,297.9%,MainBoard
+14,Fusion Micro Finance,171.9,2261.7,15 Nov `22,1104.0 Cr,₹ 368,8.6x,1.4x,0.5x,3.0x,359.5,324.8,-2.3%,-53.3%,MainBoard
+15,DCX Systems,264.8,2949.5,11 Nov `22,500.0 Cr,₹ 207,84.3x,44.0x,61.7x,69.8x,287.0,308.4,38.6%,27.9%,MainBoard
+16,Tracxn Technologies,56.9,610.3,20 Oct `22,309.4 Cr,₹ 80,1.7x,0.8x,4.9x,2.0x,84.5,93.3,5.6%,-28.8%,MainBoard
+17,Electronics Mart,134.1,5157.9,17 Oct `22,500.0 Cr,₹ 59,169.5x,63.6x,19.7x,71.9x,90.0,84.5,52.5%,127.2%,MainBoard
+18,Vedant Asset,49.3,13.6,13 Oct `22,3.0 Cr,₹ 40,-,43.0x,55.2x,48.6x,71.7,64.8,79.1%,23.1%,MainBoard
+19,Mafia Trends,14.5,6.4,06 Oct `22,3.6 Cr,₹ 28,-,3.9x,6.0x,4.9x,32.6,31.1,16.6%,-48.2%,MainBoard
+20,Harsha Engineers,413.5,3764.7,26 Sep `22,755.0 Cr,₹ 330,178.3x,71.3x,17.6x,74.7x,450.0,486.5,36.4%,25.3%,MainBoard
+21,Tamilnad Mercantile Bank,455.5,7212.9,15 Sep `22,831.6 Cr,₹ 525,1.6x,2.9x,6.5x,2.9x,495.0,509.6,-5.7%,-13.2%,MainBoard
+22,Dreamfolks Services,146.0,777.7,06 Sep `22,562.1 Cr,₹ 326,70.5x,37.7x,43.6x,56.7x,508.7,462.4,56.0%,-55.2%,MainBoard
+23,Syrma SGS Technology,725.3,12921.8,26 Aug `22,840.0 Cr,₹ 220,87.6x,17.5x,5.5x,32.6x,260.0,310.5,18.2%,229.7%,MainBoard
+24,Aether Industries,789.9,10473.3,03 Jun `22,808.0 Cr,₹ 642,17.6x,2.5x,1.1x,6.3x,704.0,774.4,9.7%,23.0%,MainBoard
+25,eMudhra,816.6,6762.4,01 Jun `22,412.8 Cr,₹ 256,4.0x,1.3x,2.6x,2.7x,270.0,257.9,5.5%,219.0%,MainBoard
+26,Ethos,2870.3,7680.3,30 May `22,472.3 Cr,₹ 878,1.1x,1.5x,0.8x,1.0x,825.0,803.1,-6.0%,226.9%,MainBoard
+27,Paradeep Phosphates,191.4,15609.2,27 May `22,1501.7 Cr,₹ 42,3.0x,0.8x,1.4x,1.8x,44.0,43.9,4.8%,355.8%,MainBoard
+28,Venus Pipes & Tubes,1487.0,3047.2,24 May `22,165.4 Cr,₹ 326,12.0x,15.7x,19.0x,16.3x,337.5,354.4,3.5%,356.1%,MainBoard
+29,Delhivery,428.8,32010.1,24 May `22,5235.0 Cr,₹ 487,2.7x,0.3x,0.6x,1.6x,495.2,536.4,1.7%,-12.0%,MainBoard
+30,Prudent Corporate ,2942.6,12184.3,20 May `22,538.6 Cr,₹ 630,1.3x,1.0x,1.3x,1.2x,650.0,561.8,3.2%,367.1%,MainBoard
+31,Life Insurance Corp,891.9,564126.5,17 May `22,21000.0 Cr,₹ 949,2.8x,2.9x,2.0x,3.0x,872.0,875.3,-8.1%,-6.0%,MainBoard
+32,Rainbow Childrens Medicare,1568.0,15923.3,10 May `22,1580.8 Cr,₹ 542,38.9x,3.7x,1.4x,12.4x,510.0,450.1,-5.9%,189.3%,MainBoard
+33,Campus Activewear,283.2,8651.0,09 May `22,1400.1 Cr,₹ 292,152.0x,22.3x,7.7x,51.8x,360.0,378.6,23.3%,-3.0%,MainBoard
+34,Le Merite Exports,331.0,804.3,09 May `22,48.0 Cr,₹ 74.99,-,2.9x,9.9x,6.4x,75.0,78.8,0.0%,341.4%,MainBoard
+35,Hariom Pipe ,459.6,1423.3,13 Apr `22,130.1 Cr,₹ 153,1.9x,8.9x,12.2x,7.9x,214.0,224.7,39.9%,200.4%,MainBoard
+36,Uma Exports,50.0,169.0,07 Apr `22,60.0 Cr,₹ 68,2.8x,2.2x,10.1x,7.7x,80.0,84.0,17.6%,-26.5%,MainBoard
+37,Veranda Learning ,220.6,2064.9,07 Apr `22,200.0 Cr,₹ 137,2.0x,3.9x,10.8x,3.5x,171.0,160.4,24.8%,61.0%,MainBoard
+38,Global Longlife Hospital,23.9,25.1,05 Apr `22,49.0 Cr,₹ 140,-,1.6x,1.4x,1.5x,141.1,135.3,0.8%,-82.9%,MainBoard
+39,Shashwat Furnishing ,60.5,12.6,05 Apr `22,2.5 Cr,₹ 44.99,-,2.4x,6.8x,4.6x,45.0,45.3,0.0%,34.5%,MainBoard
+40,Vedant Fashions,790.5,19205.2,16 Feb `22,3149.2 Cr,₹ 866,7.5x,1.1x,0.4x,2.6x,950.0,934.9,9.7%,-8.7%,MainBoard
+41,Adani Wilmar,271.4,35279.8,08 Feb `22,3600.0 Cr,₹ 230,5.7x,56.3x,3.9x,17.4x,274.0,265.2,19.1%,18.0%,MainBoard
+42,AGS Transact Tech,5.1,65.6,31 Jan `22,680.0 Cr,₹ 175,2.7x,25.6x,3.1x,7.8x,176.0,161.3,0.6%,-97.1%,MainBoard
+0,Innova Captab,889.2,5088.4,29 Dec `23,570.0 Cr,₹ 448,116.7x,65.0x,17.1x,55.3x,452.1,541.4,0.9%,98.5%,MainBoard
+1,Azad Engineering,1558.0,10061.8,28 Dec `23,740.0 Cr,₹ 524,179.7x,87.6x,23.8x,80.7x,720.0,677.5,37.4%,197.3%,MainBoard
+2,RBZ Jewellers,136.2,544.7,27 Dec `23,100.0 Cr,₹ 100,13.4x,9.3x,24.7x,16.9x,100.0,105.0,0.0%,36.2%,MainBoard
+3,Credo Brands ,162.3,1061.1,27 Dec `23,549.8 Cr,₹ 280,105.0x,55.5x,19.9x,51.9x,282.4,312.2,0.8%,-42.0%,MainBoard
+4,Happy Forgings,968.7,9133.5,27 Dec `23,1008.6 Cr,₹ 850,220.5x,62.2x,15.1x,82.0x,1000.0,1030.8,17.6%,14.0%,MainBoard
+5,Motisons Jewellers,21.8,2150.1,26 Dec `23,151.1 Cr,₹ 55,157.4x,233.9x,122.3x,159.6x,109.0,103.5,98.2%,297.1%,MainBoard
+6,Muthoot Microfin,167.2,2850.5,26 Dec `23,960.0 Cr,₹ 291,17.5x,13.2x,7.6x,11.5x,275.3,266.1,-5.4%,-42.5%,MainBoard
+7,Suraj Estate ,317.9,1518.5,26 Dec `23,400.0 Cr,₹ 360,24.3x,18.9x,9.3x,15.7x,340.0,334.5,-5.6%,-11.7%,MainBoard
+8,Inox,1217.7,11052.3,21 Dec `23,1459.3 Cr,₹ 660,147.8x,53.2x,15.3x,61.3x,949.6,940.0,43.9%,84.5%,MainBoard
+9,India Shelter Finance ,929.4,10038.2,20 Dec `23,1200.0 Cr,₹ 493,89.7x,28.5x,9.9x,36.7x,620.0,544.7,25.8%,88.5%,MainBoard
+10,DOMS Industries,2371.2,14390.2,20 Dec `23,1200.0 Cr,₹ 790,116.0x,66.5x,69.7x,93.5x,1400.0,1326.0,77.2%,200.2%,MainBoard
+11,Flair Writing,313.6,3305.7,01 Dec `23,593.0 Cr,₹ 304,115.6x,33.4x,13.0x,46.7x,501.0,450.9,64.8%,3.2%,MainBoard
+12,Gandhar Oil Refinery,165.6,1620.9,30 Nov `23,500.7 Cr,₹ 169,129.0x,62.2x,28.9x,64.1x,298.0,301.4,76.3%,-2.0%,MainBoard
+13,Tata Technologies,713.2,28933.1,30 Nov `23,3042.5 Cr,₹ 500,203.4x,62.1x,16.5x,69.4x,1200.0,1313.0,140.0%,42.6%,MainBoard
+14,Fedbank Financial ,127.1,4742.0,30 Nov `23,1092.3 Cr,₹ 140,3.5x,1.4x,1.8x,2.2x,138.0,140.3,-1.4%,-9.2%,MainBoard
+15,Indian Renewable,154.3,43360.5,29 Nov `23,2150.2 Cr,₹ 32,104.6x,24.2x,7.7x,38.8x,50.0,60.0,56.3%,382.3%,MainBoard
+16,ASK Automotive,506.1,9977.4,15 Nov `23,833.9 Cr,₹ 282,142.4x,35.5x,5.7x,51.1x,303.3,310.1,7.5%,79.5%,MainBoard
+17,Protean eGov Tech,797.0,3231.6,13 Nov `23,490.3 Cr,₹ 792,46.9x,31.6x,8.9x,23.9x,792.0,883.0,0.0%,0.6%,MainBoard
+18,ESAF Small Finance,31.9,1645.4,10 Nov `23,463.0 Cr,₹ 60,173.5x,84.4x,17.0x,73.2x,71.0,69.0,18.3%,-46.8%,MainBoard
+19,Honasa Consumer,264.5,8601.1,07 Nov `23,1701.4 Cr,₹ 324,11.5x,4.0x,1.4x,7.6x,330.0,337.1,1.9%,-18.4%,MainBoard
+20,Cello World,595.0,13142.7,06 Nov `23,1900.0 Cr,₹ 648,108.6x,24.4x,3.1x,38.9x,829.0,791.7,27.9%,-8.2%,MainBoard
+21,Blue Jet Healthcare,800.6,13887.6,01 Nov `23,840.3 Cr,₹ 346,13.7x,13.6x,2.2x,8.0x,380.0,413.3,9.8%,131.4%,MainBoard
+22,IRM Energy,290.8,1193.8,26 Oct `23,545.4 Cr,₹ 505,44.7x,48.3x,9.3x,27.1x,477.3,473.1,-5.5%,-42.4%,MainBoard
+23,Plaza Wires,60.0,262.4,12 Oct `23,71.3 Cr,₹ 54,42.8x,388.1x,374.8x,161.0x,76.0,80.2,40.7%,11.1%,MainBoard
+24,Valiant Laboratories,96.9,526.3,06 Oct `23,152.5 Cr,₹ 140,20.8x,73.6x,16.1x,29.8x,162.2,170.3,15.8%,-30.8%,MainBoard
+25,Updater Services,283.0,1894.8,04 Oct `23,640.0 Cr,₹ 300,4.5x,0.8x,1.4x,2.9x,285.0,283.9,-5.0%,-5.7%,MainBoard
+26,Manoj Vaibhav Gems N,219.7,1073.2,03 Oct `23,270.2 Cr,₹ 215,1.1x,5.2x,1.7x,2.3x,215.0,215.5,0.0%,2.2%,MainBoard
+27,JSW Infrastructure,315.0,66150.1,03 Oct `23,2800.0 Cr,₹ 119,57.1x,16.0x,10.3x,37.4x,143.0,157.3,20.2%,164.7%,MainBoard
+28,Yatra Online,92.5,1451.9,28 Sep `23,775.0 Cr,₹ 142,2.0x,0.4x,2.1x,1.6x,127.5,135.9,-10.2%,-34.8%,MainBoard
+29,Signatureglobal,1187.0,16678.6,27 Sep `23,730.0 Cr,₹ 385,12.7x,13.5x,6.8x,11.9x,444.0,458.6,15.3%,208.3%,MainBoard
+30,Sai Silks Kalamandir,184.7,2832.2,27 Sep `23,1201.0 Cr,₹ 222,12.3x,2.5x,0.9x,4.4x,231.0,244.9,4.0%,-16.8%,MainBoard
+31,Zaggle Prepaid Ocean,387.0,5194.9,22 Sep `23,563.4 Cr,₹ 164,16.7x,8.8x,5.9x,12.6x,164.0,158.3,0.0%,136.0%,MainBoard
+32,Samhi Hotels,237.5,5253.6,22 Sep `23,1370.1 Cr,₹ 126,8.8x,1.2x,1.1x,5.3x,134.5,143.4,6.8%,88.5%,MainBoard
+33,EMS,620.2,3444.0,21 Sep `23,321.2 Cr,₹ 211,153.0x,82.3x,29.8x,75.3x,282.1,279.9,33.7%,193.9%,MainBoard
+34,R R Kabel,1442.1,16308.2,20 Sep `23,1964.0 Cr,₹ 1035,52.3x,13.2x,2.1x,18.7x,1180.0,1198.0,14.0%,39.3%,MainBoard
+35,Jupiter Life Line ,1453.7,9531.3,18 Sep `23,869.1 Cr,₹ 735,187.3x,34.8x,7.7x,63.7x,973.0,1075.8,32.4%,97.8%,MainBoard
+36,Rishabh Instruments,286.4,1100.2,11 Sep `23,490.8 Cr,₹ 441,72.5x,31.3x,8.4x,31.6x,460.1,443.1,4.3%,-35.0%,MainBoard
+37,Ratnaveer Precision,154.9,821.6,11 Sep `23,165.0 Cr,₹ 98,133.1x,135.2x,54.0x,94.0x,123.2,129.3,25.7%,58.0%,MainBoard
+38,Vishnu Prakash R Punglia,166.4,2074.2,05 Sep `23,308.9 Cr,₹ 99,171.7x,111.0x,32.0x,87.8x,165.0,145.7,66.7%,68.1%,MainBoard
+39,Aeroflex Industries,208.0,2689.5,31 Aug `23,351.0 Cr,₹ 108,194.7x,126.1x,34.4x,97.1x,190.0,163.3,75.9%,92.6%,MainBoard
+40,Pyramid Technoplast,166.8,613.8,29 Aug `23,153.1 Cr,₹ 166,9.9x,32.2x,14.7x,18.3x,185.0,175.8,11.4%,0.5%,MainBoard
+41,TVS Supply Chain ,128.6,5673.5,23 Aug `23,880.0 Cr,₹ 197,1.4x,2.4x,7.6x,2.8x,207.1,201.0,5.1%,-34.7%,MainBoard
+42,Concord Biotech,1898.0,19856.2,18 Aug `23,1551.0 Cr,₹ 741,67.7x,17.0x,3.8x,24.9x,900.0,942.8,21.5%,156.1%,MainBoard
+43,SBFC Finance,109.5,11924.9,16 Aug `23,1025.0 Cr,₹ 57,192.9x,49.1x,11.0x,70.2x,82.0,92.2,43.9%,92.1%,MainBoard
+44,Yatharth Hospital ,632.3,6092.0,07 Aug `23,686.5 Cr,₹ 300,85.1x,37.2x,8.3x,36.2x,306.1,333.9,2.0%,110.8%,MainBoard
+45,Netweb Technologies,1927.5,10920.0,27 Jul `23,631.0 Cr,₹ 500,228.9x,81.8x,19.1x,90.4x,947.0,910.4,89.4%,285.5%,MainBoard
+46,Utkarsh Small Finance ,22.6,2486.3,21 Jul `23,500.0 Cr,₹ 25,124.8x,81.6x,72.1x,101.9x,40.0,48.0,60.0%,-9.7%,MainBoard
+47,Senco Gold,342.5,5606.1,14 Jul `23,405.0 Cr,₹ 317,90.1x,35.0x,6.5x,36.5x,430.0,405.3,35.6%,116.1%,MainBoard
+48,Cyient DLM,463.6,3679.7,10 Jul `23,592.0 Cr,₹ 265,90.4x,45.0x,49.2x,67.3x,403.0,420.6,52.1%,75.0%,MainBoard
+49,ideaForge Technology,478.1,2065.4,07 Jul `23,567.0 Cr,₹ 672,125.8x,80.6x,85.2x,106.0x,1300.0,1295.0,93.5%,-28.9%,MainBoard
+50,HMA Agro Industries,30.5,1529.4,04 Jul `23,480.0 Cr,₹ 585,1.7x,3.0x,1.0x,1.6x,625.0,585.6,6.8%,-47.8%,MainBoard
+51,IKIO Lighting,206.2,1593.2,16 Jun `23,607.0 Cr,₹ 285,163.6x,63.4x,13.9x,66.3x,392.5,403.9,37.7%,-27.7%,MainBoard
+52,Nexus Select Trust ,148.4,22482.6,19 May `23,3200.0 Cr,₹ 100,1.9x,6.2x,-,3.0x,103.0,104.3,3.0%,48.4%,MainBoard
+53,Mankind Pharma,2624.5,108320.6,09 May `23,4326.4 Cr,₹ 1080,49.2x,3.8x,0.9x,15.3x,1300.0,1422.3,20.4%,143.0%,MainBoard
+54,Avalon Technologies,825.3,5487.9,18 Apr `23,865.0 Cr,₹ 436,3.6x,0.4x,0.8x,2.2x,436.0,398.0,0.0%,89.3%,MainBoard
+55,Udayshivakumar Infra,35.6,197.0,03 Apr `23,66.0 Cr,₹ 35,42.9x,64.1x,14.9x,32.5x,30.0,31.5,-14.3%,1.7%,MainBoard
+56,Global Surfaces,117.3,497.1,23 Mar `23,155.0 Cr,₹ 140,8.9x,33.1x,5.1x,12.2x,164.0,171.1,17.1%,-16.2%,MainBoard
+57,Divgi Torqtransfer ,643.5,1967.9,14 Mar `23,412.1 Cr,₹ 590,7.8x,1.4x,4.3x,5.4x,620.0,605.2,5.1%,9.1%,MainBoard
+58,Sah Polymers,122.0,314.7,12 Jan `23,66.3 Cr,₹ 65,2.4x,32.7x,39.8x,17.5x,85.0,89.3,30.8%,87.7%,MainBoard
+59,Radiant Cash Mgmt,57.5,613.6,04 Jan `23,387.9 Cr,₹ 99,0.9x,0.4x,0.2x,0.5x,103.0,104.9,4.0%,-41.9%,MainBoard
+0,Unimech Aerospace,1154.0,5868.9,31 Dec `24,500.0 Cr,₹ 785,317.6x,263.8x,56.7x,175.3x,1460.0,1376.3,86.0%,47.0%,MainBoard
+1,Senores Pharmaceuticals Ltd.,677.5,3120.1,30 Dec `24,582.1 Cr,₹ 391,94.7x,96.1x,89.2x,93.4x,600.0,557.0,53.5%,73.3%,MainBoard
+2,Carraro India Ltd.,482.5,2743.1,30 Dec `24,1250.0 Cr,₹ 704,2.2x,0.6x,0.7x,1.1x,651.0,636.2,-7.5%,-31.5%,MainBoard
+3,Ventive Hospitality Ltd.,765.7,17882.3,30 Dec `24,1600.0 Cr,₹ 643,9.1x,13.8x,5.9x,9.8x,716.0,704.4,11.3%,19.1%,MainBoard
+4,Concord Enviro Systems Ltd.,621.7,1286.7,27 Dec `24,500.3 Cr,₹ 701,17.3x,14.2x,5.6x,10.7x,826.0,827.1,17.8%,-11.3%,MainBoard
+5,Transrail Lighting Ltd.,699.7,9393.9,27 Dec `24,838.9 Cr,₹ 432,201.1x,76.4x,22.1x,80.8x,590.0,553.5,36.6%,62.0%,MainBoard
+6,Sanathan Textiles Ltd.,534.1,4508.4,27 Dec `24,550.0 Cr,₹ 321,75.6x,42.2x,8.9x,35.1x,422.3,388.4,31.6%,66.4%,MainBoard
+7,Mamata Machinery Ltd.,501.4,1234.0,27 Dec `24,179.4 Cr,₹ 243,235.9x,274.4x,138.1x,194.9x,600.0,630.0,146.9%,106.4%,MainBoard
+8,Dam Capital Advisors Ltd.,236.0,1668.2,27 Dec `24,840.3 Cr,₹ 283,166.3x,98.6x,27.1x,82.1x,393.0,415.1,38.9%,-16.6%,MainBoard
+9,International Gemmological Institute India Ltd.,405.1,17509.0,20 Dec `24,4225.0 Cr,₹ 417,45.8x,24.8x,11.2x,33.8x,510.0,471.1,22.3%,-2.8%,MainBoard
+10,Inventurus Knowledge Solutions Ltd.,1591.2,27300.7,19 Dec `24,2497.9 Cr,₹ 1329,80.6x,23.3x,14.6x,52.7x,1900.0,1960.8,43.0%,19.7%,MainBoard
+11,One MobiKwik Systems Ltd.,262.4,2051.1,18 Dec `24,572.0 Cr,₹ 279,119.5x,109.0x,134.7x,119.4x,440.0,528.0,57.7%,-5.9%,MainBoard
+12,Sai Life Sciences Ltd.,836.1,17462.6,18 Dec `24,3042.6 Cr,₹ 549,30.9x,4.9x,1.4x,10.3x,650.0,764.6,18.4%,52.3%,MainBoard
+13,Vishal Mega Mart Ltd.,140.0,65259.2,18 Dec `24,8000.0 Cr,₹ 78,80.8x,14.2x,2.3x,27.3x,104.0,111.9,33.3%,79.5%,MainBoard
+14,Property Share Investment Trust,990666.7,3457.4,10 Dec `24,352.9 Cr,₹ 1050000,0.1x,-,-,1.2x,1050000.0,1048945.7,0.0%,-5.7%,MainBoard
+15,Suraksha Diagnostic Ltd.,303.5,1580.7,06 Dec `24,846.3 Cr,₹ 441,1.7x,1.4x,0.9x,1.3x,438.0,417.3,-0.7%,-31.2%,MainBoard
+16,Enviro Infra Engineers Ltd.,271.5,4765.8,29 Nov `24,650.4 Cr,₹ 148,157.1x,153.8x,24.5x,89.9x,220.0,207.1,48.6%,83.5%,MainBoard
+17,NTPC Green Energy Ltd.,106.1,89369.7,27 Nov `24,10000.0 Cr,₹ 108,3.3x,0.8x,3.4x,2.4x,111.5,121.7,3.2%,-1.8%,MainBoard
+18,Zinka Logistics Solutions Ltd.,455.8,8164.6,22 Nov `24,1114.7 Cr,₹ 273,2.8x,0.2x,1.7x,1.9x,280.9,260.1,2.9%,66.9%,MainBoard
+19,Niva Bupa Health Insurance Company Ltd.,84.7,15619.7,14 Nov `24,2200.0 Cr,₹ 74,2.1x,0.7x,2.7x,1.8x,78.1,74.0,5.6%,14.4%,MainBoard
+20,ACME Solar Holdings Ltd.,271.4,16424.5,13 Nov `24,2900.0 Cr,₹ 289,3.5x,1.0x,3.1x,2.8x,251.0,253.2,-13.2%,-6.1%,MainBoard
+21,Swiggy Ltd.,410.0,102239.5,13 Nov `24,11327.4 Cr,₹ 390,6.0x,0.4x,1.1x,3.6x,420.0,456.0,7.7%,5.1%,MainBoard
+22,Sagility India Ltd.,43.6,20396.5,12 Nov `24,2106.6 Cr,₹ 30,3.5x,1.9x,4.2x,3.2x,31.1,29.3,3.5%,45.2%,MainBoard
+23,Afcons Infrastructure Ltd.,415.1,15268.6,04 Nov `24,5430.0 Cr,₹ 463,3.8x,5.0x,0.9x,2.6x,426.0,474.2,-8.0%,-10.3%,MainBoard
+24,Godavari Biorefineries Ltd.,317.9,1626.9,30 Oct `24,554.8 Cr,₹ 352,2.8x,0.9x,1.7x,1.8x,308.0,343.2,-12.5%,-9.7%,MainBoard
+25,Waaree Energies Ltd.,3190.5,91657.7,28 Oct `24,4321.4 Cr,₹ 1503,208.6x,62.5x,10.8x,76.3x,2500.0,2338.9,66.3%,112.3%,MainBoard
+26,Deepak Builders & Engineers India Ltd.,137.2,639.0,28 Oct `24,260.0 Cr,₹ 203,13.9x,82.5x,39.8x,41.5x,200.0,161.9,-1.5%,-32.4%,MainBoard
+27,Hyundai Motor India Ltd.,2085.6,169463.6,22 Oct `24,27870.2 Cr,₹ 1960,7.0x,0.6x,0.5x,2.4x,1934.0,1819.6,-1.3%,6.4%,MainBoard
+28,Garuda Construction and Engineering Ltd.,171.1,1591.8,15 Oct `24,264.1 Cr,₹ 95,1.2x,9.0x,10.8x,7.5x,105.0,106.8,10.5%,80.1%,MainBoard
+29,Diffusion Engineers Ltd.,333.5,1248.2,04 Oct `24,158.0 Cr,₹ 168,95.7x,207.6x,85.6x,114.5x,193.5,203.2,15.2%,98.5%,MainBoard
+30,KRN Heat Exchanger and Refrigeration Ltd.,840.3,5223.0,03 Oct `24,341.5 Cr,₹ 220,253.0x,431.6x,98.3x,214.4x,480.0,478.8,118.2%,281.9%,MainBoard
+31,Manba Finance Ltd.,137.7,691.7,30 Sep `24,150.8 Cr,₹ 120,148.6x,511.6x,144.0x,224.1x,145.0,157.4,20.8%,14.7%,MainBoard
+32,Arkade Developers Ltd.,199.3,3700.3,24 Sep `24,410.0 Cr,₹ 128,163.2x,163.0x,51.4x,106.8x,175.0,165.9,36.7%,55.7%,MainBoard
+33,Northern Arc Capital,254.5,4110.7,24 Sep `24,777.0 Cr,₹ 263,240.8x,142.4x,31.1x,110.9x,350.0,323.4,33.1%,-3.2%,MainBoard
+34,Western Carriers (India) Ltd.,110.9,1130.4,24 Sep `24,492.9 Cr,₹ 172,28.0x,44.7x,25.9x,30.6x,171.0,159.4,-0.6%,-35.5%,MainBoard
+35,P N Gadgil Jewellers Ltd.,585.5,7945.7,17 Sep `24,1100.0 Cr,₹ 480,136.8x,56.1x,16.6x,59.4x,830.0,793.3,72.9%,22.0%,MainBoard
+36,Kross Ltd.,186.0,1199.9,16 Sep `24,500.0 Cr,₹ 240,23.3x,22.2x,10.8x,16.8x,240.0,259.8,0.0%,-22.5%,MainBoard
+37,Tolins Tyres Ltd.,156.8,619.5,16 Sep `24,230.0 Cr,₹ 226,25.4x,27.4x,21.5x,23.9x,228.0,239.4,0.9%,-30.6%,MainBoard
+38,Bajaj Housing Finance Ltd.,117.1,97538.3,16 Sep `24,6560.0 Cr,₹ 70,209.4x,41.5x,7.0x,63.6x,150.0,165.0,114.3%,67.2%,MainBoard
+39,Shree Tirupati Balajee Agro Trading Company Ltd.,45.3,369.8,12 Sep `24,169.7 Cr,₹ 83,60.8x,102.3x,33.0x,55.8x,90.0,94.5,8.4%,-45.4%,MainBoard
+40,Gala Precision,855.4,1087.7,09 Sep `24,167.9 Cr,₹ 529,232.5x,414.6x,92.0x,201.4x,721.1,757.1,36.3%,61.7%,MainBoard
+41,Baazar Style Retail,267.6,1996.4,06 Sep `24,834.7 Cr,₹ 389,81.8x,59.4x,9.1x,40.7x,389.0,400.0,0.0%,-31.2%,MainBoard
+42,Ecos Mobility ,321.4,1928.1,04 Sep `24,601.2 Cr,₹ 334,136.8x,71.2x,19.8x,64.3x,390.0,443.1,16.8%,-3.8%,MainBoard
+43,Premier Energies,1085.0,48909.0,03 Sep `24,2830.4 Cr,₹ 450,216.7x,50.0x,7.7x,74.4x,990.0,839.9,120.0%,141.1%,MainBoard
+44,Orient Technologies,325.9,1356.9,28 Aug `24,214.8 Cr,₹ 206,189.9x,300.6x,66.8x,151.7x,288.0,302.4,39.8%,58.2%,MainBoard
+45,Interarch Building,2281.0,3795.7,26 Aug `24,600.3 Cr,₹ 900,205.4x,128.4x,19.1x,93.5x,1299.0,1195.7,44.3%,153.4%,MainBoard
+46,Saraswati Saree Depot,95.0,376.0,20 Aug `24,160.0 Cr,₹ 160,64.1x,358.5x,61.6x,107.4x,194.0,203.7,21.3%,-40.7%,MainBoard
+47,Unicommerce eSolutions,123.2,1271.7,13 Aug `24,276.6 Cr,₹ 108,138.8x,252.5x,131.0x,168.3x,235.0,210.1,117.6%,14.0%,MainBoard
+48,Brainbees Solutions,354.1,18480.4,13 Aug `24,4193.7 Cr,₹ 465,19.3x,4.7x,2.3x,12.2x,651.0,679.1,40.0%,-23.8%,MainBoard
+49,Ola Electric ,41.6,18366.7,09 Aug `24,6145.6 Cr,₹ 76,5.3x,2.4x,3.9x,4.3x,76.0,91.2,0.0%,-45.2%,MainBoard
+50,Ceigall,264.5,4607.7,08 Aug `24,1252.7 Cr,₹ 401,31.5x,14.4x,3.8x,13.8x,419.0,386.8,4.5%,-34.0%,MainBoard
+51,Akums Drugs & Pharma,533.1,8390.7,06 Aug `24,1856.7 Cr,₹ 679,90.1x,42.2x,21.3x,63.6x,725.0,796.3,6.8%,-21.5%,MainBoard
+52,Sanstar,91.0,1658.1,26 Jul `24,510.1 Cr,₹ 95,145.7x,136.5x,24.2x,83.0x,109.0,115.1,14.7%,-4.2%,MainBoard
+53,Emcure Pharma,1418.0,26872.3,10 Jul `24,1952.0 Cr,₹ 1008,195.8x,48.3x,7.2x,67.9x,1325.0,1359.2,31.4%,40.7%,MainBoard
+54,Bansal Wire ,410.9,6432.9,10 Jul `24,745.0 Cr,₹ 256,146.1x,51.5x,13.6x,59.6x,356.0,350.4,39.1%,60.5%,MainBoard
+55,Vraj Iron & Steel,168.7,556.4,03 Jul `24,171.0 Cr,₹ 207,163.9x,208.8x,54.9x,119.0x,240.0,252.0,15.9%,-18.5%,MainBoard
+56,Allied Blenders,463.1,12953.4,02 Jul `24,1500.0 Cr,₹ 281,50.4x,32.4x,4.5x,23.6x,320.0,317.9,13.9%,64.8%,MainBoard
+57,Stanley Lifestyles,337.6,1928.6,28 Jun `24,537.0 Cr,₹ 369,222.1x,119.5x,19.2x,97.0x,494.9,474.8,34.1%,-8.5%,MainBoard
+58,Akme Fintrade,7.3,309.4,26 Jun `24,132.0 Cr,₹ 120,28.1x,130.3x,45.8x,55.1x,127.0,133.3,5.8%,-39.6%,MainBoard
+59,DEE Development,299.1,2067.6,26 Jun `24,418.0 Cr,₹ 203,201.9x,144.0x,23.4x,99.6x,325.0,335.0,60.1%,47.3%,MainBoard
+60,LE Travenues Tech,218.3,8524.1,18 Jun `24,740.1 Cr,₹ 93,106.7x,110.5x,54.7x,98.3x,138.1,165.7,48.5%,134.8%,MainBoard
+61,Kronox Lab Sciences,180.1,668.1,10 Jun `24,130.2 Cr,₹ 136,89.0x,303.0x,55.7x,118.2x,164.9,159.3,21.3%,32.4%,MainBoard
+62,Awfis Space Solutions,609.6,4346.5,30 May `24,598.9 Cr,₹ 383,117.0x,129.8x,54.6x,108.6x,435.0,421.8,13.6%,59.2%,MainBoard
+63,Go Digit Insurance ,348.9,32181.7,23 May `24,2615.0 Cr,₹ 272,12.6x,7.2x,4.3x,9.6x,286.0,306.0,5.2%,28.3%,MainBoard
+64,TBO Tek,1392.0,15115.4,15 May `24,1550.8 Cr,₹ 920,125.5x,50.6x,25.7x,86.7x,1426.0,1406.3,55.0%,51.3%,MainBoard
+65,Aadhar Housing ,501.4,21665.6,15 May `24,3000.0 Cr,₹ 315,72.8x,16.5x,2.5x,25.5x,315.0,329.4,0.0%,59.2%,MainBoard
+66,Indegene,552.0,13247.3,13 May `24,1841.8 Cr,₹ 452,197.6x,55.1x,8.0x,69.9x,655.0,570.9,44.9%,22.1%,MainBoard
+67,JNK,330.0,1846.5,30 Apr `24,649.5 Cr,₹ 415,75.7x,23.3x,4.1x,28.1x,621.0,694.5,49.6%,-20.5%,MainBoard
+68,Vodafone Idea,7.3,78765.4,25 Apr `24,18000.0 Cr,₹ 11,17.6x,4.1x,0.9x,6.4x,11.8,13.1,7.3%,-33.9%,MainBoard
+69,Bharti Hexacom,1790.2,89510.0,12 Apr `24,4275.0 Cr,₹ 570,48.6x,10.5x,2.8x,29.9x,755.0,813.3,32.5%,214.1%,MainBoard
+70,SRM Contractors,473.0,1085.3,03 Apr `24,130.2 Cr,₹ 210,59.6x,214.9x,47.0x,86.6x,215.3,226.0,2.5%,125.2%,MainBoard
+71,Krystal Integrated ,663.0,926.3,21 Mar `24,300.1 Cr,₹ 715,7.3x,43.9x,3.3x,13.2x,785.0,712.9,9.8%,-7.3%,MainBoard
+72,Popular Vehicles ,127.1,905.0,19 Mar `24,601.5 Cr,₹ 295,2.0x,0.7x,1.1x,1.2x,289.2,276.1,-2.0%,-56.9%,MainBoard
+73,Gopal Snacks,346.4,4316.9,14 Mar `24,650.0 Cr,₹ 401,17.5x,9.5x,4.0x,9.0x,351.0,362.7,-12.5%,-13.6%,MainBoard
+74,J G Chemicals,474.9,1860.8,13 Mar `24,251.2 Cr,₹ 221,32.1x,46.3x,17.4x,27.8x,209.0,184.8,-5.4%,114.9%,MainBoard
+75,R K Swamy,165.5,835.6,12 Mar `24,423.6 Cr,₹ 288,20.6x,34.4x,34.0x,25.9x,250.0,262.6,-13.2%,-42.5%,MainBoard
+76,Bharat Highways InvIT,113.9,4976.6,12 Mar `24,2500.0 Cr,₹ 100,8.9x,6.9x,-,8.0x,101.1,103.0,1.1%,13.9%,MainBoard
+77,Mukka Proteins,29.2,874.8,07 Mar `24,224.0 Cr,₹ 28,189.3x,250.4x,58.5x,137.0x,40.0,42.3,42.9%,4.1%,MainBoard
+78,Platinum Industries,303.1,1664.5,05 Mar `24,235.3 Cr,₹ 171,151.0x,141.8x,51.0x,99.0x,225.0,221.2,31.6%,77.2%,MainBoard
+79,Exicom Tele-Systems,164.2,2283.1,05 Mar `24,424.1 Cr,₹ 142,121.8x,153.2x,119.6x,129.5x,265.0,224.9,86.6%,15.6%,MainBoard
+80,GPT Healthcare,159.9,1312.5,29 Feb `24,525.1 Cr,₹ 186,17.3x,11.0x,2.4x,8.5x,215.0,200.7,15.6%,-14.0%,MainBoard
+81,Juniper Hotels,307.7,6846.4,28 Feb `24,1800.0 Cr,₹ 360,3.0x,0.8x,1.3x,2.1x,365.0,401.5,1.4%,-14.5%,MainBoard
+82,Vibhor Steel Tubes,166.5,315.8,20 Feb `24,72.2 Cr,₹ 151,178.7x,721.3x,188.2x,298.9x,425.0,446.3,181.5%,10.3%,MainBoard
+83,Entero Healthcare ,1232.5,5362.5,16 Feb `24,1600.0 Cr,₹ 1258,2.3x,0.2x,1.3x,1.5x,1228.7,1149.5,-2.3%,-2.0%,MainBoard
+84,Rashi Peripherals,296.4,1952.9,14 Feb `24,600.0 Cr,₹ 311,143.7x,62.8x,10.4x,59.7x,339.5,321.5,9.2%,-4.7%,MainBoard
+85,Jana Small Finance,452.2,4757.2,14 Feb `24,570.0 Cr,₹ 414,38.8x,25.1x,5.5x,18.5x,396.0,368.1,-4.3%,9.2%,MainBoard
+86,Capital Small Finance ,300.1,1357.6,14 Feb `24,523.1 Cr,₹ 468,6.6x,4.0x,2.5x,4.0x,430.3,435.0,-8.1%,-35.9%,MainBoard
+87,Apeejay Surrendra,154.3,3291.3,12 Feb `24,920.0 Cr,₹ 155,75.1x,52.4x,30.4x,59.7x,186.0,203.6,20.0%,-0.5%,MainBoard
+88,BLS E-Services,186.0,1689.9,06 Feb `24,310.9 Cr,₹ 135,123.3x,300.1x,237.0x,162.5x,305.0,366.0,125.9%,37.8%,MainBoard
+89,Nova Agritech,58.1,537.6,31 Jan `24,143.8 Cr,₹ 41,79.3x,224.1x,77.1x,109.4x,55.0,57.8,34.1%,41.7%,MainBoard
+90,EPACK Durables,356.9,3425.1,30 Jan `24,640.0 Cr,₹ 230,25.5x,28.1x,6.3x,16.4x,221.0,207.6,-3.9%,55.2%,MainBoard
+91,Medi Assist Healthcare,530.5,3741.7,23 Jan `24,1171.6 Cr,₹ 418,40.1x,14.8x,3.2x,16.3x,460.0,464.1,10.1%,26.9%,MainBoard
+92,Jyoti CNC Automation,1035.8,23556.5,16 Jan `24,1000.0 Cr,₹ 331,44.1x,36.5x,26.2x,38.5x,370.0,434.2,11.8%,212.9%,MainBoard
+0,Anthem Biosciences,739.1,41511.4,21 Jul `25,3395.0 Cr,₹ 570,182.7x,42.4x,5.6x,63.9x,723.0,730.4,26.9%,29.7%,MainBoard
+1,Smartworks Coworking Spaces,417.3,4762.1,17 Jul `25,582.6 Cr,₹ 407,24.4x,22.8x,3.5x,13.4x,435.0,445.1,6.9%,2.5%,MainBoard
+2,Travel Food Services,1159.7,15270.9,14 Jul `25,2000.0 Cr,₹ 1100,7.7x,1.6x,0.7x,2.9x,1125.0,1074.8,2.3%,5.4%,MainBoard
+3,Crizac,324.6,5679.1,09 Jul `25,860.0 Cr,₹ 245,134.3x,76.2x,10.2x,59.8x,281.1,307.6,14.7%,32.5%,MainBoard
+4,Indogulf Cropsciences,108.8,687.7,03 Jul `25,200.0 Cr,₹ 111,33.3x,48.4x,14.8x,26.0x,111.0,110.3,0.0%,-2.0%,MainBoard
+5,Sambhv Steel Tubes,137.3,4046.7,02 Jul `25,540.0 Cr,₹ 82,62.3x,31.8x,8.0x,28.5x,110.0,97.6,34.1%,67.5%,MainBoard
+6,HDB Financial Services,755.5,62673.8,02 Jul `25,12500.0 Cr,₹ 740,55.5x,10.0x,1.4x,16.7x,835.0,841.0,12.8%,2.1%,MainBoard
+7,Kalpataru,404.9,8337.5,01 Jul `25,1590.0 Cr,₹ 414,3.1x,1.3x,1.3x,2.3x,414.0,432.9,0.0%,-2.2%,MainBoard
+8,Ellenbarrie Industrial Gases,563.5,7941.7,01 Jul `25,852.5 Cr,₹ 400,64.2x,15.2x,2.1x,22.2x,486.0,534.6,21.5%,40.9%,MainBoard
+9,Globe Civil Projects,87.3,521.1,01 Jul `25,119.0 Cr,₹ 71,99.8x,143.2x,53.7x,86.0x,90.0,94.5,26.8%,22.9%,MainBoard
+10,Arisinfra Solutions,144.3,1169.2,25 Jun `25,499.6 Cr,₹ 222,1.4x,3.1x,5.6x,2.6x,205.0,174.4,-7.7%,-35.0%,MainBoard
+11,Oswal Pumps,741.3,8449.1,20 Jun `25,1387.3 Cr,₹ 614,88.1x,36.7x,3.6x,34.4x,634.0,625.4,3.3%,20.7%,MainBoard
+12,Scoda Tubes,193.0,1156.5,04 Jun `25,220.0 Cr,₹ 140,69.5x,113.0x,19.4x,53.8x,140.0,147.0,0.0%,37.9%,MainBoard
+13,Prostarm Info Systems,216.1,1272.1,03 Jun `25,168.0 Cr,₹ 105,104.5x,222.1x,39.5x,97.2x,120.0,126.0,14.3%,105.8%,MainBoard
+14,Schloss Bangalore,448.4,14973.0,02 Jun `25,3500.0 Cr,₹ 435,7.5x,1.0x,0.8x,4.5x,406.0,435.6,-6.7%,3.1%,MainBoard
+15,Aegis Vopak Terminals,257.7,28548.5,02 Jun `25,2800.0 Cr,₹ 235,3.3x,0.6x,0.8x,2.1x,220.0,242.0,-6.4%,9.6%,MainBoard
+16,Belrise Industries,130.7,11628.9,28 May `25,2150.0 Cr,₹ 90,108.3x,38.3x,4.3x,41.3x,100.0,97.4,11.1%,45.2%,MainBoard
+17,Borana Weaves,220.6,587.8,27 May `25,144.9 Cr,₹ 216,87.2x,237.4x,200.5x,148.8x,243.0,255.2,12.5%,2.1%,MainBoard
+18,Ather Energy,340.8,12691.6,06 May `25,2980.8 Cr,₹ 321,1.7x,0.7x,1.8x,1.4x,328.0,302.3,2.2%,6.2%,MainBoard
+19,Quality Power Electrical,803.2,6220.3,24 Feb `25,858.7 Cr,₹ 425,1.0x,1.4x,1.8x,1.3x,430.0,387.9,1.2%,89.0%,MainBoard
+20,Hexaware Technologies,763.0,46457.0,19 Feb `25,8750.0 Cr,₹ 708,9.1x,0.2x,0.1x,2.7x,745.5,762.5,5.3%,7.8%,MainBoard
+21,Ajax Engineering,677.0,7745.9,17 Feb `25,1269.3 Cr,₹ 629,14.4x,6.5x,1.9x,6.5x,576.0,595.4,-8.4%,7.6%,MainBoard
+22,Dr Agarwals Health Care,450.1,14230.3,04 Feb `25,3027.3 Cr,₹ 402,4.6x,0.4x,0.4x,1.6x,402.0,401.6,0.0%,12.0%,MainBoard
+23,Denta Water and Infra,329.0,878.4,29 Jan `25,220.5 Cr,₹ 294,236.9x,507.3x,90.6x,221.7x,325.0,341.3,10.5%,11.9%,MainBoard
+24,Stallion India Fluorochemicals Ltd.,120.7,957.1,23 Jan `25,199.4 Cr,₹ 90,172.9x,422.4x,96.9x,188.4x,120.0,126.0,33.3%,34.1%,MainBoard
+25,Laxmi Dental,464.8,2554.4,20 Jan `25,698.1 Cr,₹ 428,110.4x,147.9x,76.2x,114.4x,542.0,550.5,26.6%,8.6%,MainBoard
+26,Capital Infra Trust,81.8,2251.4,17 Jan `25,1578.0 Cr,₹ 100,0.7x,9.2x,-,2.8x,99.0,99.0,-1.0%,-18.3%,MainBoard
+27,Quadrant Future Tek,468.5,1874.0,14 Jan `25,290.0 Cr,₹ 290,132.5x,254.7x,246.9x,186.7x,370.0,444.0,27.6%,61.5%,MainBoard
+28,Standard Glass Lining,175.5,3500.9,13 Jan `25,410.1 Cr,₹ 140,331.6x,268.5x,65.0x,183.2x,172.0,163.3,22.9%,25.4%,MainBoard
+29,Indo Farm Equipment,205.2,986.0,07 Jan `25,260.1 Cr,₹ 215,242.4x,503.8x,104.9x,229.7x,256.0,273.7,19.1%,-4.6%,MainBoard

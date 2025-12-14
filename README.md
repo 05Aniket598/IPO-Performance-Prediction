@@ -11,7 +11,9 @@
 
 **Project Type**: Academic Year Project
 
-**Status**: 🚧 In Progress
+**Status**: Completed
+
+**Web app link**: https://ipo-performance-prediction.streamlit.app/
 
 ---
 
